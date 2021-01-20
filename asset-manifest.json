@@ -5,17 +5,17 @@
     "main.js.map": "/spa-sample-app/static/js/main.bd3ff01b.chunk.js.map",
     "runtime-main.js": "/spa-sample-app/static/js/runtime-main.3ecbce96.js",
     "runtime-main.js.map": "/spa-sample-app/static/js/runtime-main.3ecbce96.js.map",
-    "static/js/2.08f2fb0b.chunk.js": "/spa-sample-app/static/js/2.08f2fb0b.chunk.js",
-    "static/js/2.08f2fb0b.chunk.js.map": "/spa-sample-app/static/js/2.08f2fb0b.chunk.js.map",
+    "static/js/2.99ce6736.chunk.js": "/spa-sample-app/static/js/2.99ce6736.chunk.js",
+    "static/js/2.99ce6736.chunk.js.map": "/spa-sample-app/static/js/2.99ce6736.chunk.js.map",
     "index.html": "/spa-sample-app/index.html",
-    "precache-manifest.6febf2913034845258b859a129dd7d22.js": "/spa-sample-app/precache-manifest.6febf2913034845258b859a129dd7d22.js",
+    "precache-manifest.dd429a2d3ba78e43773e3e0613cee929.js": "/spa-sample-app/precache-manifest.dd429a2d3ba78e43773e3e0613cee929.js",
     "service-worker.js": "/spa-sample-app/service-worker.js",
     "static/css/main.cf07d08c.chunk.css.map": "/spa-sample-app/static/css/main.cf07d08c.chunk.css.map",
-    "static/js/2.08f2fb0b.chunk.js.LICENSE.txt": "/spa-sample-app/static/js/2.08f2fb0b.chunk.js.LICENSE.txt"
+    "static/js/2.99ce6736.chunk.js.LICENSE.txt": "/spa-sample-app/static/js/2.99ce6736.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3ecbce96.js",
-    "static/js/2.08f2fb0b.chunk.js",
+    "static/js/2.99ce6736.chunk.js",
     "static/css/main.cf07d08c.chunk.css",
     "static/js/main.bd3ff01b.chunk.js"
   ]
