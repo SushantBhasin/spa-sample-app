@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spa-sample-app/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/spa-sample-app/static/js/main.a63931c0.chunk.js",
-    "main.js.map": "/spa-sample-app/static/js/main.a63931c0.chunk.js.map",
+    "main.js": "/spa-sample-app/static/js/main.264988ad.chunk.js",
+    "main.js.map": "/spa-sample-app/static/js/main.264988ad.chunk.js.map",
     "runtime-main.js": "/spa-sample-app/static/js/runtime-main.3ecbce96.js",
     "runtime-main.js.map": "/spa-sample-app/static/js/runtime-main.3ecbce96.js.map",
     "static/js/2.f4d96979.chunk.js": "/spa-sample-app/static/js/2.f4d96979.chunk.js",
     "static/js/2.f4d96979.chunk.js.map": "/spa-sample-app/static/js/2.f4d96979.chunk.js.map",
     "index.html": "/spa-sample-app/index.html",
-    "precache-manifest.83348564b013183d81b63455deaee356.js": "/spa-sample-app/precache-manifest.83348564b013183d81b63455deaee356.js",
+    "precache-manifest.fdcc45b33a00a11505392d663848a3b8.js": "/spa-sample-app/precache-manifest.fdcc45b33a00a11505392d663848a3b8.js",
     "service-worker.js": "/spa-sample-app/service-worker.js",
     "static/css/main.435d5fe5.chunk.css.map": "/spa-sample-app/static/css/main.435d5fe5.chunk.css.map",
     "static/js/2.f4d96979.chunk.js.LICENSE.txt": "/spa-sample-app/static/js/2.f4d96979.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3ecbce96.js",
     "static/js/2.f4d96979.chunk.js",
     "static/css/main.435d5fe5.chunk.css",
-    "static/js/main.a63931c0.chunk.js"
+    "static/js/main.264988ad.chunk.js"
   ]
 }
