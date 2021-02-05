@@ -1,5 +1,4 @@
 import React from 'react';
-import { AEMText } from './Text';
 import Page from './Page';
 import SampleContent from './SampleContent';
 
