@@ -1,11 +1,11 @@
 import React from 'react';
-import Page from './Page';
 import SampleContent from './SampleContent';
+import { ResponsiveGrid } from '@adobe/aem-react-editable-components';
 
 const AEMPage = () => (
     <main>
         <h2>Sample AEM + SPA</h2>
-        <Page pagePath="/editorxpdevelopment/components/structure/page" />
+        <ResponsiveGrid pagePath="/root/responsivegrid" />
         <SampleContent />
     </main>
 );
